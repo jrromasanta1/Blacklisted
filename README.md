@@ -1,4 +1,4 @@
-Blacklisted
-===========
+Blacklisted for MakeAPI
+=======================
 
-Checking blacklisted words
+Code I must implement into MakeAPI to Check for blacklisted words
